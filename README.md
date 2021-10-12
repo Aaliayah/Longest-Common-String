@@ -1,10 +1,9 @@
 # Longest-Common-String
 In this algorimn homework, I use two different algorimn method to find LCS.
 
-## Overviews
-1. The original ones is using nested iteration to find common characters, whose time complex is **O(n^2)**
+### 1. The original ones is using nested iteration to find common characters, whose time complex is **O(n^2)**
 
-2. The improved one is converting LCS to LIS problem, whose time complex is **O(nlogn)**
+### 2. The improved one is converting LCS to LIS problem, whose time complex is **O(nlogn)**
 
 
 For example:
@@ -33,8 +32,10 @@ To sum up , the time complex can be shrink to O(nlogn)
 
 ## The comparison
 Original :
+
 <img width="258" alt="image" src="https://user-images.githubusercontent.com/57362375/136911072-5eb09a8a-a06c-43a0-ab55-ed61951e5790.png">
 Imporved:
+
 <img width="258" alt="image" src="https://user-images.githubusercontent.com/57362375/136911085-4f422cd4-ff5f-4ba3-9e29-00fe5177c129.png">
 
 By creating 100 date set, each length is 10,40,70....2980, we can draw the picture following:
