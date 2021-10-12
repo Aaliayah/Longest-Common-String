@@ -37,7 +37,7 @@ To sum up , the time complex can be shrink to O(nlogn)
 
 ##### Improved:
 
-<img width="258" alt="image" src="https://user-images.githubusercontent.com/57362375/136911085-4f422cd4-ff5f-4ba3-9e29-00fe5177c129.png">
+<img width="244" alt="image" src="https://user-images.githubusercontent.com/57362375/136913088-dee655ad-08ac-4d83-996c-e902053d1c6c.png">
 
 By creating 100 date set, each length is 10,40,70....2980, we can draw the picture following:
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/57362375/136911442-ebe8c921-361b-4618-88a6-86d1bc3e8eab.png">
