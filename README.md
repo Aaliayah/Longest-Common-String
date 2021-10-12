@@ -11,15 +11,16 @@ For example:
  
 1. Saving each char's index in s1
 
-a: {0,3}
-b: {1,4} 
-c: {2,5}
+  a: {0,3}
+  b: {1,4} 
+  c: {2,5}
  
  2.  converting s2 into a list of number.
     Note that if there are two different index of one char, it should be sorted from big to small, in case of repetive counting.
-     --> {3,0,4,1,4,1,5,2,3,0} 
+    --> {3,0,4,1,4,1,5,2,3,0} 
 
- Doing LIS: {0,1,2,3}，length=4  ，and we can know the correspond string is ”abca”.
+ 3. Doing LIS
+     {0,1,2,3}，length=4  ，and we can know the correspond string is ”abca”.
 
 
 ## Time Complex Analysis - improved LCS
