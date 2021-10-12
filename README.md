@@ -10,9 +10,10 @@ For example:
  s1[] = “abcabc”, s2[] = “abbcad”
  
 1. Saving each char's index in s1
- a: 0,3
- b: 1,4 
- c: 2,5
+
+a: {0,3}
+b: {1,4} 
+c: {2,5}
  
  2.  converting s2 into a list of number.
     Note that if there are two different index of one char, it should be sorted from big to small, in case of repetive counting.
