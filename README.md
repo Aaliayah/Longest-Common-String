@@ -1,10 +1,10 @@
 # Longest-Common-String
 In this algorimn homework, I use two different algorimn method to find LCS.
 
-#### 1. The original ones is using nested iteration to find common characters, whose time complex is **O(n^2)**
+### 1. The original ones is using nested iteration to find common characters, whose time complex is **O(n^2)**
 Compared each char in s1 and s2 at a time and using dynamic programing to get the outcome.
 
-#### 2. The improved one is converting LCS to LIS problem, whose time complex is **O(nlogn)**
+### 2. The improved one is converting LCS to LIS problem, whose time complex is **O(nlogn)**
 For example:
  s1[] = “abcabc”, s2[] = “abbcad”
  
