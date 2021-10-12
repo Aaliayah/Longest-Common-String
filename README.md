@@ -23,9 +23,9 @@ For example:
 ## Time Complex Analysis - improved LCS
 -	Fetching corresponding index of each char in s1 :O(n)
 -	Fetching the converting number of s2 by the rule of process a. : O(nlogn)  
-   **The searching time of red-black tree is O(logn)**
+    - The searching time of red-black tree is O(logn)
 -	Doing LIS : O(nlogn). 
-   **By BinarySearch O(logn)**
+    - By BinarySearch O(logn)
 -	Matching the result of LIS to string(LCS):O(n)
 
 To sum up , the time complex can be shrink to O(nlogn)
